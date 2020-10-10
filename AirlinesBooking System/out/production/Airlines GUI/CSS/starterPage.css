@@ -1,0 +1,30 @@
+#p1{
+    -fx-opacity: 0.5;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#p2{
+    -fx-opacity: 0.5;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#p3{
+    -fx-opacity: 0.5;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#p4{
+    -fx-opacity: 0.5;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#startersLogin{
+    -fx-background-position: center;
+    -fx-opacity: 0.7;
+    -fx-background-color: white;
+    -fx-background-radius: 50px;
+}
